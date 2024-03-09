@@ -1687,26 +1687,26 @@ a {
   .io-zinnia .section-bg-zinnia h1, .io-zinnia .section-bg-zinnia h2, .io-zinnia .section-bg-zinnia h3, .io-zinnia .section-bg-zinnia h4, .io-zinnia .section-bg-zinnia h5, .io-zinnia .section-bg-zinnia h6, .io-zinnia .section-bg-zinnia p, .io-zinnia .section-bg-zinnia p.lead, .io-zinnia .section-bg-zinnia .section-head-s7 p, .io-zinnia .section-bg-zinnia .section-title-s7, .io-zinnia .section-bg-zinnia .section-title-md, .io-zinnia .section-bg-gradient h1, .io-zinnia .section-bg-gradient h2, .io-zinnia .section-bg-gradient h3, .io-zinnia .section-bg-gradient h4, .io-zinnia .section-bg-gradient h5, .io-zinnia .section-bg-gradient h6, .io-zinnia .section-bg-gradient p, .io-zinnia .section-bg-gradient p.lead, .io-zinnia .section-bg-gradient .section-head-s7 p, .io-zinnia .section-bg-gradient .section-title-s7, .io-zinnia .section-bg-gradient .section-title-md {
     color: #fff; }
 .io-zinnia .section-bg-gradient {
-  background-image: linear-gradient(135deg, #ff6c3f 0%, black 100%); }
+  background-image: linear-gradient(135deg, #03E1FF 0%, black 100%); }
 .io-zinnia .footer-section {
-  background-image: linear-gradient(45deg, #ff6c3f 0%, black 100%); }
+  background-image: linear-gradient(45deg, #03E1FF 0%, black 100%); }
 .io-zinnia .footer-bottom .copyright-text {
   color: #fff; }
 .io-zinnia .widget-title {
   color: #fff; }
 .io-zinnia .timeline-title {
-  color: #ff6c3f; }
+  color: #03E1FF; }
 .io-zinnia .timeline-done .timeline-title {
   color: #223b55; }
 .io-zinnia .header-txt p {
   color: #4c5a77; }
 .io-zinnia .btn {
   color: #fff;
-  background-image: -webkit-linear-gradient(to right, #ff6c3f 0%, black 100%);
-  background-image: linear-gradient(to right, #ff6c3f 0%, black 100%); }
+  background-image: -webkit-linear-gradient(to right, #03E1FF 0%, black 100%);
+  background-image: linear-gradient(to right, #03E1FF 0%, black 100%); }
   .io-zinnia .btn:before {
-    background-image: -webkit-linear-gradient(to right, black 0%, #ff6c3f 100%);
-    background-image: linear-gradient(to right, black 0%, #ff6c3f 100%); }
+    background-image: -webkit-linear-gradient(to right, black 0%, #03E1FF 100%);
+    background-image: linear-gradient(to right, black 0%, #03E1FF 100%); }
   .io-zinnia .btn-outline {
     background: transparent;
     border-color: rgba(255, 255, 255, 0.4); }
@@ -1718,15 +1718,15 @@ a {
     background: #fff;
     color: black; }
     .io-zinnia .btn-icon-s3 [class*="fa-"] {
-      background: #ff6c3f;
+      background: #03E1FF;
       color: #fff; }
     .io-zinnia .btn-icon-s3:hover {
-      color: #ff6c3f; }
+      color: #03E1FF; }
       .io-zinnia .btn-icon-s3:hover [class*="fa-"] {
         background: black;
         color: #fff; }
   .io-zinnia .btn.btn-plane {
-    background: #ff6c3f; }
+    background: #03E1FF; }
 .io-zinnia .text-block ul:not(.btns) li:before {
   background: #fe8f97; }
 .io-zinnia .text-block h2 {
@@ -1780,9 +1780,9 @@ a {
   .io-zinnia .navbar-toggler .ti {
     color: black; }
 .io-zinnia .active .navbar-toggler {
-  background: linear-gradient(to right, #ff6c3f 0%, black 100%); }
+  background: linear-gradient(to right, #03E1FF 0%, black 100%); }
   .io-zinnia .active .navbar-toggler:hover, .io-zinnia .active .navbar-toggler:focus {
-    background: linear-gradient(to right, #ff6c3f 0%, black 100%); }
+    background: linear-gradient(to right, #03E1FF 0%, black 100%); }
   .io-zinnia .active .navbar-toggler .ti {
     color: #fff; }
 .io-zinnia .timeline-item:before, .io-zinnia .timeline-item:after {
@@ -1816,7 +1816,7 @@ a {
 .io-zinnia .timeline-row-done:after {
   border-color: #fff; }
 .io-zinnia .team-circle .team-photo:before {
-  background: linear-gradient(180deg, black 0%, #ff6c3f 100%); }
+  background: linear-gradient(180deg, black 0%, #03E1FF 100%); }
 .io-zinnia .team-circle .team-title {
   color: #4c5a77; }
 .io-zinnia .team-circle .team-name {
@@ -1826,12 +1826,12 @@ a {
   .io-zinnia .team-circle .team-social li a:hover {
     color: black; }
 .io-zinnia .bg-team-exp.mfp-bg, .io-zinnia .skill-bar-percent {
-  background: linear-gradient(-45deg, black 0%, #ff6c3f 100%); }
+  background: linear-gradient(-45deg, black 0%, #03E1FF 100%); }
 .io-zinnia .tab-custom-s3 .nav-tabs .nav-link {
   background: #eff1f3;
   color: #5a5d7a; }
   .io-zinnia .tab-custom-s3 .nav-tabs .nav-link:before {
-    background: linear-gradient(-45deg, black 0%, #ff6c3f 100%); }
+    background: linear-gradient(-45deg, black 0%, #03E1FF 100%); }
   .io-zinnia .tab-custom-s3 .nav-tabs .nav-link.active {
     color: #fff;
     background: transparent; }
@@ -1864,7 +1864,7 @@ a {
   background: #fff; }
 .io-zinnia .contact-info li .fa {
   color: #fff;
-  background: linear-gradient(-45deg, black 0%, #ff6c3f 100%); }
+  background: linear-gradient(-45deg, black 0%, #03E1FF 100%); }
 .io-zinnia .form-message .input-field .input-line {
   color: #5a5d7a;
   border-bottom-color: #dee2e6; }
@@ -1903,7 +1903,7 @@ a {
   .io-zinnia .timeline-row:before {
     border-left-color: #a7010c; } }
 .banner-zinnia {
-  background: linear-gradient(135deg, #ff6c3f 0%, black 100%); }
+  background: linear-gradient(135deg, #03E1FF 0%, black 100%); }
 
 .section-title-s7 {
   color: black; }
@@ -1911,7 +1911,7 @@ a {
 .presale-countdown {
   background: url(../images/contdown-shape-zinnia.png) 0 0 no-repeat, #fff9f7; }
   .presale-countdown h5 {
-    background: linear-gradient(0deg, #ff6c3f 0%, black 100%);
+    background: linear-gradient(0deg, #03E1FF 0%, black 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
   .presale-countdown h6 {
@@ -1927,7 +1927,7 @@ a {
 .presale-bar {
   background: #fff; }
   .presale-bar-percent {
-    background: linear-gradient(45deg, #ff6c3f 0%, black 100%); }
+    background: linear-gradient(45deg, #03E1FF 0%, black 100%); }
 
 .play-btn-s3 {
   background: #fff; }
@@ -1963,7 +1963,7 @@ a {
   background: #fed895; }
 
 .tab-s4 .nav-tabs {
-  background-image: linear-gradient(45deg, #ff6c3f 0%, black 100%); }
+  background-image: linear-gradient(45deg, #03E1FF 0%, black 100%); }
   .tab-s4 .nav-tabs .nav-link {
     background: transparent;
     color: #fff; }

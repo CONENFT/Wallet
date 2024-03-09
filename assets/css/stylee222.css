@@ -9688,10 +9688,10 @@ label.error {
     .io-zinnia .section-bg-zinnia h1, .io-zinnia .section-bg-zinnia h2, .io-zinnia .section-bg-zinnia h3, .io-zinnia .section-bg-zinnia h4, .io-zinnia .section-bg-zinnia h5, .io-zinnia .section-bg-zinnia h6, .io-zinnia .section-bg-zinnia p, .io-zinnia .section-bg-zinnia p.lead, .io-zinnia .section-bg-zinnia .section-head-s7 p, .io-zinnia .section-bg-zinnia .section-title-s7, .io-zinnia .section-bg-zinnia .section-title-md, .io-zinnia .section-bg-gradient h1, .io-zinnia .section-bg-gradient h2, .io-zinnia .section-bg-gradient h3, .io-zinnia .section-bg-gradient h4, .io-zinnia .section-bg-gradient h5, .io-zinnia .section-bg-gradient h6, .io-zinnia .section-bg-gradient p, .io-zinnia .section-bg-gradient p.lead, .io-zinnia .section-bg-gradient .section-head-s7 p, .io-zinnia .section-bg-gradient .section-title-s7, .io-zinnia .section-bg-gradient .section-title-md {
       color: #fff; }
   .io-zinnia .section-bg-gradient {
-    background-image: linear-gradient(135deg, #ff6c3f 0%, black 100%); }
+    background-image: linear-gradient(135deg, #03E1FF 0%, black 100%); }
   .io-zinnia .footer-section {
     overflow: hidden;
-    background-image: linear-gradient(45deg, #ff6c3f 0%, black 100%); }
+    background-image: linear-gradient(45deg, #03E1FF 0%, black 100%); }
   .io-zinnia .footer-bottom {
     padding: 10px 0 40px; }
     .io-zinnia .footer-bottom .copyright-text {
@@ -9702,7 +9702,7 @@ label.error {
   .io-zinnia .widget-title {
     color: #fff; }
   .io-zinnia .timeline-title {
-    color: #ff6c3f; }
+    color: #03E1FF; }
   .io-zinnia .timeline-done .timeline-title {
     color: #223b55; }
   .io-zinnia .header-txt p {
@@ -9711,12 +9711,12 @@ label.error {
   .io-zinnia .btn {
     color: #fff;
     border-radius: 23px;
-    background-image: -webkit-linear-gradient(to right, #ff6c3f 0%, black 100%);
-    background-image: linear-gradient(to right, #ff6c3f 0%, black 100%); }
+    background-image: -webkit-linear-gradient(to right, #03E1FF 0%, black 100%);
+    background-image: linear-gradient(to right, #03E1FF 0%, black 100%); }
     .io-zinnia .btn:before {
       border-radius: 23px;
-      background-image: -webkit-linear-gradient(to right, black 0%, #ff6c3f 100%);
-      background-image: linear-gradient(to right, black 0%, #ff6c3f 100%); }
+      background-image: -webkit-linear-gradient(to right, black 0%, #03E1FF 100%);
+      background-image: linear-gradient(to right, black 0%, #03E1FF 100%); }
     .io-zinnia .btn-outline {
       line-height: 42px;
       background: transparent;
@@ -9742,16 +9742,16 @@ label.error {
         border-radius: 50%;
         top: 4px;
         right: 4px;
-        background: #ff6c3f;
+        background: #03E1FF;
         color: #fff;
         transition: all .4s; }
       .io-zinnia .btn-icon-s3:hover {
-        color: #ff6c3f; }
+        color: #03E1FF; }
         .io-zinnia .btn-icon-s3:hover [class*="fa-"] {
           background: black;
           color: #fff; }
     .io-zinnia .btn.btn-plane {
-      background: #ff6c3f; }
+      background: #03E1FF; }
   .io-zinnia .text-block ul:not(.btns) li:before {
     background: #fe8f97; }
   .io-zinnia .text-block h2 {
@@ -9857,9 +9857,9 @@ label.error {
     .io-zinnia .navbar-toggler .ti {
       color: black; }
   .io-zinnia .active .navbar-toggler {
-    background: linear-gradient(to right, #ff6c3f 0%, black 100%); }
+    background: linear-gradient(to right, #03E1FF 0%, black 100%); }
     .io-zinnia .active .navbar-toggler:hover, .io-zinnia .active .navbar-toggler:focus {
-      background: linear-gradient(to right, #ff6c3f 0%, black 100%); }
+      background: linear-gradient(to right, #03E1FF 0%, black 100%); }
     .io-zinnia .active .navbar-toggler .ti {
       color: #fff; }
   .io-zinnia .timeline-item:before, .io-zinnia .timeline-item:after {
@@ -9905,7 +9905,7 @@ label.error {
   .io-zinnia .team-circle .team-photo:before {
     opacity: 1;
     transform: translateX(-50%) scale(1);
-    background: linear-gradient(180deg, black 0%, #ff6c3f 100%); }
+    background: linear-gradient(180deg, black 0%, #03E1FF 100%); }
   .io-zinnia .team-circle .team-title {
     color: #4c5a77; }
   .io-zinnia .team-circle .team-name {
@@ -9915,7 +9915,7 @@ label.error {
     .io-zinnia .team-circle .team-social li a:hover {
       color: black; }
   .io-zinnia .bg-team-exp.mfp-bg, .io-zinnia .skill-bar-percent {
-    background: linear-gradient(-45deg, black 0%, #ff6c3f 100%); }
+    background: linear-gradient(-45deg, black 0%, #03E1FF 100%); }
   .io-zinnia .tab-custom-s3 .nav-tabs .nav-link {
     background: #eff1f3;
     color: #5a5d7a;
@@ -9928,7 +9928,7 @@ label.error {
       width: 100%;
       content: '';
       border-radius: 6px;
-      background: linear-gradient(-45deg, black 0%, #ff6c3f 100%);
+      background: linear-gradient(-45deg, black 0%, #03E1FF 100%);
       z-index: -1;
       opacity: 0; }
     .io-zinnia .tab-custom-s3 .nav-tabs .nav-link.active {
@@ -9969,7 +9969,7 @@ label.error {
     background: #fff; }
   .io-zinnia .contact-info li .fa {
     color: #fff;
-    background: linear-gradient(-45deg, black 0%, #ff6c3f 100%); }
+    background: linear-gradient(-45deg, black 0%, #03E1FF 100%); }
   .io-zinnia .form-message .input-field .input-line {
     color: #5a5d7a;
     border-bottom-color: #dee2e6;
@@ -10109,7 +10109,7 @@ label.error {
     border-left: 3px solid #a7010c; } }
 .banner-zinnia {
   padding-top: 50px;
-  background: linear-gradient(135deg, #ff6c3f 0%, black 100%);
+  background: linear-gradient(135deg, #03E1FF 0%, black 100%);
   background-size: contain, contain;
   overflow: hidden;
   display: flex;
@@ -10194,7 +10194,7 @@ label.error {
   border-radius: 6px 6px 0 0;
   padding: 30px 30px 18px 30px; }
   .presale-countdown h5 {
-    background: linear-gradient(0deg, #ff6c3f 0%, black 100%);
+    background: linear-gradient(0deg, #03E1FF 0%, black 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
   .presale-countdown h6 {
@@ -10240,7 +10240,7 @@ label.error {
   .presale-bar-percent {
     height: 20px;
     border-radius: 20px;
-    background: linear-gradient(45deg, #ff6c3f 0%, black 100%); }
+    background: linear-gradient(45deg, #03E1FF 0%, black 100%); }
 .presale-points {
   padding-top: 6px;
   font-weight: .93em; }
@@ -10507,7 +10507,7 @@ label.error {
     padding: 5px 8px;
     border-radius: 30px;
     display: inline-block;
-    background-image: linear-gradient(45deg, #ff6c3f 0%, black 100%); }
+    background-image: linear-gradient(45deg, #03E1FF 0%, black 100%); }
     .tab-s4 .nav-tabs .nav-item {
       margin: 0 -3px;
       display: inline-block; }
