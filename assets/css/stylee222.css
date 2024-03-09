@@ -390,7 +390,19 @@ h1, h2, h3, h4, h5, h6, blockquote {
 .video-box {
   position: relative;
   margin-top: 40px;
-  padding-top: 56%; }
+  padding-top: 56%;
+animation: liquid 3s infinite; }
+@keyframes liquid {
+  transform: translateY(0px);
+} 
+ 50%{
+   
+  tranform: translateY(-9px);
+ }
+ 100%{
+      transform: translateY(0px);
+ }
+
   .video-box iframe {
     border: 1px solid #fbfbfb;
     -ms-border-radius: 5px;
