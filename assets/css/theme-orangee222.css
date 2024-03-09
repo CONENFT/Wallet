@@ -835,7 +835,7 @@ a {
   color: #DC1FFF; }
 
 .io-jasmine h1, .io-jasmine h2, .io-jasmine h3, .io-jasmine h4, .io-jasmine h5, .io-jasmine h6 {
-  color: #223b55; }
+  color: black; }
 .io-jasmine p {
   color: #DC1FFF; }
   .io-jasmine p.lead {
@@ -859,7 +859,7 @@ a {
 .io-jasmine .timeline-title {
   color: #DC1FFF; }
 .io-jasmine .timeline-done .timeline-title {
-  color: #223b55; }
+  color: black; }
 .io-jasmine .document-title {
   color: #DC1FFF; }
 .io-jasmine .btn {
@@ -894,19 +894,19 @@ a {
   .io-jasmine .team-circle-des span {
     color: #DC1FFF; }
   .io-jasmine .team-circle-des p {
-    color: #223b55; }
+    color: black; }
 .io-jasmine .team-circle-social li a {
   color: #DC1FFF; }
   .io-jasmine .team-circle-social li a:hover {
     color: #DC1FFF; }
 .io-jasmine .site-header .navbar-nav > li > a {
-  color: #223b55; }
+  color: black; }
   .io-jasmine .site-header .navbar-nav > li > a:hover, .io-jasmine .site-header .navbar-nav > li > a.active {
     color: #DC1FFF; }
 .io-jasmine .site-header.has-fixed .navbar {
   background: #d1ddec; }
 .io-jasmine .lang-switch a {
-  color: #223b55; }
+  color: black; }
   .io-jasmine .lang-switch a:hover {
     color: #DC1FFF;
     background-color: transparent; }
@@ -953,7 +953,7 @@ a {
       background: #DC1FFF; }
 
 .rating-info {
-  color: #223b55;
+  color: black;
   background: #e9effa; }
   .rating-info span {
     color: #6a7894; }
@@ -985,7 +985,7 @@ a {
   .token-details-list li:nth-child(odd) .token-details-info {
     background: #fff; }
 .token-details-title {
-  color: #223b55; }
+  color: black; }
 .token-details-info {
   color: #DC1FFF; }
 .token-stage-title {
@@ -1002,7 +1002,7 @@ a {
 .token-stage-cap {
   color: #6a7894; }
 .token-stage-amount {
-  color: #223b55; }
+  color: black; }
 .token-action-box {
   background: white; }
 .token-action-title {
@@ -1062,9 +1062,9 @@ a {
   .timeline-info li:after {
     background: #79859f; }
 .timeline-done .timeline-title {
-  color: #223b55; }
+  color: black; }
 .timeline-current .timeline-title {
-  color: #223b55; }
+  color: black; }
 .timeline-row {
   position: relative; }
   .timeline-row:before {
@@ -1678,7 +1678,7 @@ a {
   .io-zinnia .section-bg p, .io-zinnia .section-bg-alt p {
     color: #DC1FFF; }
     .io-zinnia .section-bg p.lead, .io-zinnia .section-bg-alt p.lead {
-      color: #223b55; }
+      color: black; }
   .io-zinnia .section-bg .section-title-s7, .io-zinnia .section-bg .section-title-md, .io-zinnia .section-bg-alt .section-title-s7, .io-zinnia .section-bg-alt .section-title-md {
     color: black; }
 .io-zinnia .section-bg-zinnia, .io-zinnia .section-bg-gradient {
@@ -1697,7 +1697,7 @@ a {
 .io-zinnia .timeline-title {
   color: #03E1FF; }
 .io-zinnia .timeline-done .timeline-title {
-  color: #223b55; }
+  color: black; }
 .io-zinnia .header-txt p {
   color: #DC1FFF; }
 .io-zinnia .btn {
@@ -1736,9 +1736,9 @@ a {
 .io-zinnia .site-header .navbar-nav > li > a {
   color: #fff; }
   .io-zinnia .site-header .navbar-nav > li > a:hover, .io-zinnia .site-header .navbar-nav > li > a.active {
-    color: #223b55; }
+    color: black; }
 .io-zinnia .site-header.has-fixed .navbar-nav > li > a {
-  color: #223b55; }
+  color: black; }
   .io-zinnia .site-header.has-fixed .navbar-nav > li > a:hover, .io-zinnia .site-header.has-fixed .navbar-nav > li > a.active {
     color: black; }
 .io-zinnia .site-header.has-fixed .navbar {
@@ -1756,19 +1756,19 @@ a {
 .io-zinnia .lang-switch a {
   color: #fff; }
 .io-zinnia .lang-switch.show > a {
-  color: #223b55; }
+  color: black; }
 .io-zinnia .lang-switch:hover a {
-  color: #223b55;
+  color: black;
   background-color: transparent; }
 .io-zinnia .lang-switch .dropdown-menu {
   background: #ffdcdf;
   border: none; }
   .io-zinnia .lang-switch .dropdown-menu a {
-    color: #223b55; }
+    color: black; }
     .io-zinnia .lang-switch .dropdown-menu a:hover {
       color: black; }
 .io-zinnia .has-fixed .lang-switch a {
-  color: #223b55; }
+  color: black; }
   .io-zinnia .has-fixed .lang-switch a:hover {
     color: black; }
 .io-zinnia .has-fixed .lang-switch .dropdown-menu {
@@ -1881,7 +1881,7 @@ a {
   .io-zinnia .site-header .navbar.is-transparent.active {
     background: #ffe6e8; }
   .io-zinnia .lang-switch a {
-    color: #223b55; }
+    color: black; }
     .io-zinnia .lang-switch a:hover {
       color: black; }
   .io-zinnia .lang-switch .dropdown-menu {
@@ -1915,7 +1915,7 @@ a {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
   .presale-countdown h6 {
-    color: #223b55 !important; }
+    color: black !important; }
   .presale-countdown .countdown-time {
     color: black; }
     .presale-countdown .countdown-time:after {
@@ -1977,19 +1977,19 @@ a {
   .tkn-crt-prcnt.one {
     background: black; }
   .tkn-crt-prcnt.two {
-    background: #fb6b5d; }
+    background: black; }
   .tkn-crt-prcnt.three {
     background: #ff5676; }
   .tkn-crt-prcnt.four {
-    background: #ff774e; }
+    background: black; }
   .tkn-crt-prcnt.five {
-    background: #ff6993; }
+    background: black; }
   .tkn-crt-prcnt.six {
-    background: #ff9465; }
+    background: black; }
   .tkn-crt-prcnt.seven {
-    background: #fb7fc8; }
+    background: black; }
 .tkn-crt-ttl {
-  color: #223b55; }
+  color: black; }
 
 @media (min-width: 992px) {
   .tkn-crt:before {

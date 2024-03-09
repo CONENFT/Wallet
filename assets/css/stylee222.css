@@ -7031,7 +7031,7 @@ label.error {
     max-width: 100% !important; } }
 /** @Jesmine @v130 */
 .io-jasmine h1, .io-jasmine h2, .io-jasmine h3, .io-jasmine h4, .io-jasmine h5, .io-jasmine h6 {
-  color: #223b55; }
+  color: black; }
 .io-jasmine p {
   color: #DC1FFF; }
   .io-jasmine p.lead {
@@ -7055,7 +7055,7 @@ label.error {
 .io-jasmine .timeline-title {
   color: #2b56f5; }
 .io-jasmine .timeline-done .timeline-title {
-  color: #223b55; }
+  color: black; }
 .io-jasmine .document-title {
   color: #DC1FFF; }
 .io-jasmine .btn {
@@ -7112,7 +7112,7 @@ label.error {
   .io-jasmine .team-circle-des span {
     color: #16a1ff; }
   .io-jasmine .team-circle-des p {
-    color: #223b55; }
+    color: black; }
   .io-jasmine .team-circle-des:hover {
     box-shadow: 0px 7px 15px 0px rgba(0, 0, 0, 0.08); }
 .io-jasmine .team-circle-social li a {
@@ -7121,7 +7121,7 @@ label.error {
     color: #2b56f5; }
 .io-jasmine .site-header .navbar-nav > li > a {
   text-transform: capitalize;
-  color: #223b55; }
+  color: black; }
   .io-jasmine .site-header .navbar-nav > li > a:hover, .io-jasmine .site-header .navbar-nav > li > a.active {
     color: #16a1ff; }
 .io-jasmine .site-header.has-fixed .navbar {
@@ -7132,7 +7132,7 @@ label.error {
   font-size: 13px;
   font-weight: 500;
   margin: 0 8.5px;
-  color: #223b55; }
+  color: black; }
   .io-jasmine .lang-switch a:hover {
     color: #16a1ff;
     background-color: transparent; }
@@ -7459,7 +7459,7 @@ label.error {
   line-height: 1;
   padding: 16px 0;
   font-weight: 700;
-  color: #223b55;
+  color: black;
   background: #e9effa;
   border-radius: 6px 6px 0 0; }
   .rating-info span {
@@ -7590,7 +7590,7 @@ label.error {
     .token-details-list li:last-child {
       border-radius: 0 0 6px 6px; }
 .token-details-title {
-  color: #223b55;
+  color: black;
   width: 48%;
   padding-left: 15px; }
 .token-details-info {
@@ -7632,7 +7632,7 @@ label.error {
     display: block;
     color: #6a7894; }
   .token-stage-amount {
-    color: #223b55; }
+    color: black; }
 .token-action-box {
   display: flex;
   align-items: center;
@@ -7879,7 +7879,7 @@ label.error {
 .timeline-done:before, .timeline-done:after {
   opacity: 1; }
 .timeline-done .timeline-title {
-  color: #223b55; }
+  color: black; }
 .timeline-done .timeline-date:before {
   opacity: 1; }
 .timeline-current:before, .timeline-current:after {
@@ -7887,7 +7887,7 @@ label.error {
 .timeline-current:after {
   opacity: 0; }
 .timeline-current .timeline-title {
-  color: #223b55; }
+  color: black; }
 .timeline-current .timeline-date:before {
   opacity: 1; }
 .timeline-row {
@@ -9685,7 +9685,7 @@ label.error {
     .io-zinnia .section-bg p, .io-zinnia .section-bg-alt p {
       color: #DC1FFF; }
       .io-zinnia .section-bg p.lead, .io-zinnia .section-bg-alt p.lead {
-        color: #223b55; }
+        color: black; }
     .io-zinnia .section-bg .section-title-s7, .io-zinnia .section-bg .section-title-md, .io-zinnia .section-bg-alt .section-title-s7, .io-zinnia .section-bg-alt .section-title-md {
       color: black; }
   .io-zinnia .section-bg-zinnia, .io-zinnia .section-bg-gradient {
@@ -9710,7 +9710,7 @@ label.error {
   .io-zinnia .timeline-title {
     color: #03E1FF; }
   .io-zinnia .timeline-done .timeline-title {
-    color: #223b55; }
+    color: black; }
   .io-zinnia .header-txt p {
     font-size: 1em;
     color: #000000; }
@@ -9770,12 +9770,12 @@ label.error {
     text-transform: capitalize;
     color: #fff; }
     .io-zinnia .site-header .navbar-nav > li > a:hover, .io-zinnia .site-header .navbar-nav > li > a.active {
-      color: #223b55; }
+      color: black; }
   .io-zinnia .site-header .navbar-nav > li.open > a {
-    color: #223b55; }
+    color: black; }
   .io-zinnia .site-header.has-fixed .navbar-nav > li > a {
     text-transform: capitalize;
-    color: #223b55; }
+    color: black; }
     .io-zinnia .site-header.has-fixed .navbar-nav > li > a:hover, .io-zinnia .site-header.has-fixed .navbar-nav > li > a.active {
       color: black; }
   .io-zinnia .site-header.has-fixed .navbar-nav > li.open > a {
@@ -9822,9 +9822,9 @@ label.error {
       margin: 0 8.5px;
       color: #fff; }
     .io-zinnia .lang-switch.show > a {
-      color: #223b55; }
+      color: black; }
     .io-zinnia .lang-switch:hover a {
-      color: #223b55;
+      color: black;
       background-color: transparent; }
     .io-zinnia .lang-switch .dropdown-item {
       margin: 0 0; }
@@ -9833,7 +9833,7 @@ label.error {
       background: #ffdcdf;
       border: none; }
       .io-zinnia .lang-switch .dropdown-menu a {
-        color: #223b55; }
+        color: black; }
         .io-zinnia .lang-switch .dropdown-menu a:hover {
           color: black; }
     .io-zinnia .lang-switch .ti {
@@ -9842,7 +9842,7 @@ label.error {
     .io-zinnia .lang-switch:before {
       display: none; }
   .io-zinnia .has-fixed .lang-switch a {
-    color: #223b55; }
+    color: black; }
     .io-zinnia .has-fixed .lang-switch a:hover {
       color: black; }
   .io-zinnia .has-fixed .lang-switch .dropdown-item {
@@ -10020,7 +10020,7 @@ label.error {
   .io-zinnia .site-header .navbar.is-transparent.active {
     background: #ffe6e8; }
   .io-zinnia .lang-switch a {
-    color: #223b55; }
+    color: black; }
     .io-zinnia .lang-switch a:hover {
       color: black; }
   .io-zinnia .lang-switch .dropdown-item {
@@ -10206,7 +10206,7 @@ label.error {
   .presale-countdown h6 {
     font-weight: 400;
     margin-bottom: 6px;
-    color: #223b55 !important; }
+    color: black !important; }
   .presale-countdown .token-countdown {
     margin: 0 -20px; }
   .presale-countdown .col {
@@ -10609,22 +10609,22 @@ label.error {
     .tkn-crt-prcnt.one {
       background: black; }
     .tkn-crt-prcnt.two {
-      background: #fb6b5d; }
+      background: black; }
     .tkn-crt-prcnt.three {
       background: black; }
     .tkn-crt-prcnt.four {
-      background: #ff774e; }
+      background: black; }
     .tkn-crt-prcnt.five {
-      background: #ff6993; }
+      background: black; }
     .tkn-crt-prcnt.six {
-      background: #ff9465; }
+      background: black; }
     .tkn-crt-prcnt.seven {
-      background: #fb7fc8; }
+      background: black; }
   .tkn-crt-ttl {
     font-weight: 400;
     text-align: center;
     display: block;
-    color: #223b55; }
+    color: black; }
 
 @media (min-width: 576px) {
   .tkn-crt-lst {
