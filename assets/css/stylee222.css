@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, table {
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   line-height: 1.33;
   font-weight: 600;
-  color: #373e45; }
+  color: #DC1FFF; }
   h1.color-secondary, h2.color-secondary, h3.color-secondary, h4.color-secondary, h5.color-secondary, h6.color-secondary, .h1.color-secondary, .h2.color-secondary, .h3.color-secondary, .h4.color-secondary, .h5.color-secondary, .h6.color-secondary {
     color: #7a0fff; }
   h1.color-primary, h2.color-primary, h3.color-primary, h4.color-primary, h5.color-primary, h6.color-primary, .h1.color-primary, .h2.color-primary, .h3.color-primary, .h4.color-primary, .h5.color-primary, .h6.color-primary {
@@ -299,7 +299,7 @@ h1, h2, h3, h4, h5, h6, blockquote {
   color: #3c3c3c; }
 
 .color-heading {
-  color: #373e45; }
+  color: #DC1FFF; }
 
 .color-secondary {
   color: #7a0fff; }
@@ -4014,19 +4014,19 @@ label.error {
   opacity: 0.6;
   color: #fff; }
   .theme-light .subscription-form input::-moz-placeholder, .io-dark-light .section-light .subscription-form input::-moz-placeholder, .io-dark-light .section-light-alt .subscription-form input::-moz-placeholder {
-    color: #373e45; }
+    color: #DC1FFF; }
 
 .subscription-form input:-ms-input-placeholder {
   opacity: 0.6;
   color: #fff; }
   .theme-light .subscription-form input:-ms-input-placeholder, .io-dark-light .section-light .subscription-form input:-ms-input-placeholder, .io-dark-light .section-light-alt .subscription-form input:-ms-input-placeholder {
-    color: #373e45; }
+    color: #DC1FFF; }
 
 .subscription-form input::-webkit-input-placeholder {
   opacity: 0.6;
   color: #fff; }
   .theme-light .subscription-form input::-webkit-input-placeholder, .io-dark-light .section-light .subscription-form input::-webkit-input-placeholder, .io-dark-light .section-light-alt .subscription-form input::-webkit-input-placeholder {
-    color: #373e45; }
+    color: #DC1FFF; }
 
 @media only screen and (max-width: 767px) {
   .footer-subscription {
@@ -5030,30 +5030,30 @@ label.error {
     .search-form button:hover {
       background: rgba(70, 189, 244, 0.3); }
   .theme-light .search-form input::-moz-placeholder, .io-dark-light .section-light .search-form input::-moz-placeholder, .io-dark-light .section-light-alt .search-form input::-moz-placeholder {
-    color: #373e45; }
+    color: #DC1FFF; }
   .theme-light .search-form input:-ms-input-placeholder, .io-dark-light .section-light .search-form input:-ms-input-placeholder, .io-dark-light .section-light-alt .search-form input:-ms-input-placeholder {
-    color: #373e45; }
+    color: #DC1FFF; }
   .theme-light .search-form input::-webkit-input-placeholder, .io-dark-light .section-light .search-form input::-webkit-input-placeholder, .io-dark-light .section-light-alt .search-form input::-webkit-input-placeholder {
-    color: #373e45; }
+    color: #DC1FFF; }
   .theme-light .search-form input[type="text"], .io-dark-light .section-light .search-form input[type="text"], .io-dark-light .section-light-alt .search-form input[type="text"] {
-    color: #373e45;
+    color: #DC1FFF;
     border-color: rgba(70, 189, 244, 0.5); }
   .theme-light .search-form button, .io-dark-light .section-light .search-form button, .io-dark-light .section-light-alt .search-form button {
     background: rgba(70, 189, 244, 0.5); }
     .theme-light .search-form button:hover, .io-dark-light .section-light .search-form button:hover, .io-dark-light .section-light-alt .search-form button:hover {
       background: rgba(70, 189, 244, 0.8); }
   .io-azure .section-pro .search-form input::-moz-placeholder {
-    color: #373e45; }
+    color: #DC1FFF; }
   .io-azure .section-pro .search-form input:-ms-input-placeholder {
-    color: #373e45; }
+    color: #DC1FFF; }
   .io-azure .section-pro .search-form input::-webkit-input-placeholder {
-    color: #373e45; }
+    color: #DC1FFF; }
   .io-azure .section-pro .search-form input[type="text"] {
-    color: #373e45;
+    color: #DC1FFF;
     border-color: #eff6ff; }
   .io-azure .section-pro .search-form button {
     background: #eff6ff;
-    color: #373e45; }
+    color: #DC1FFF; }
     .io-azure .section-pro .search-form button:hover {
       background: rgba(70, 189, 244, 0.8);
       color: #fff; }
