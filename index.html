@@ -963,5 +963,16 @@
 </div><!-- Preloader End --><!-- JavaScript (include all script here) -->
 <script src="assets/js/jquery.bundlee222.js?ver=142"></script>
 <script src="assets/js/scripte222.js?ver=142"></script>
+<script type="text/javascript">
+
+    $(window).on('beforeunload', function() {
+    
+       window.setTimeout(function() {
+        $(window).scrollTop(0); 
+    }, 0);
+    
+    });
+    
+    </script>
 </body>
 </html>
