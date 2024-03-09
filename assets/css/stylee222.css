@@ -236,7 +236,7 @@ a {
   .theme-light .section-bg-alt {
     background: #000000; }
   .io-azure .section-bg-alt {
-    background: #1b30a4; }
+    background: black; }
 
 .section-bg-dark {
   background: #08091b; }
@@ -2748,7 +2748,7 @@ select:focus {
   position: relative; }
   .token-section:after {
     content: "";
-    background: linear-gradient(to top, #1b30a4 15%, rgba(13, 66, 178, 0) 100%);
+    background: linear-gradient(to top, black 15%, rgba(13, 66, 178, 0) 100%);
     height: 80%;
     width: 100%;
     position: absolute;
@@ -3178,10 +3178,10 @@ select:focus {
     z-index: 4; }
   .roadmap-list-alt:after {
     right: 0;
-    background: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, #1b30a4 100%); }
+    background: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, black 100%); }
   .roadmap-list-alt:before {
     left: 0;
-    background: linear-gradient(to left, rgba(0, 0, 0, 0) 0%, #1b30a4 100%); }
+    background: linear-gradient(to left, rgba(0, 0, 0, 0) 0%, black 100%); }
   .section-pro .roadmap-list-alt:after {
     background: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, #fff 100%); }
   .section-pro .roadmap-list-alt:before {
@@ -3247,7 +3247,7 @@ select:focus {
     content: "\f00c";
     background: #49ea8d !important; }
   .io-azure .single-roadmap-alt:after {
-    background: #1b30a4; }
+    background: black; }
   .section-pro .single-roadmap-alt:after {
     background: #fff; }
   .section-pro-alt .single-roadmap-alt:after {
@@ -3343,7 +3343,7 @@ select:focus {
   .section-bg-alt .team-member {
     background: #10122d; }
   .io-azure .team-member {
-    background: #1b30a4; }
+    background: black; }
   .team-member .team-photo {
     width: 160px;
     position: absolute;
@@ -4838,7 +4838,7 @@ label.error {
 .io-azure .comment-item {
   background: black; }
   .io-azure .comment-item > div {
-    border-bottom-color: #1b30a4; }
+    border-bottom-color: black; }
 .io-azure .comment-content p {
   color: #7ab9ff; }
 .io-azure .section-pro .comment-item {
