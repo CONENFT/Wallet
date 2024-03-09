@@ -10839,7 +10839,8 @@ label.error {
   .ui-shape:before {
     top: 15%;
     left: -4%;
-    width: 100px;
+    width: 380px;
+    height: 348px;
     background-image: url(../images/shape-a-red.jpg); }
   .ui-shape:after {
     bottom: 10%;
