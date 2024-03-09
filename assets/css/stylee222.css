@@ -243,7 +243,7 @@ a {
   .theme-light .section-bg-dark {
     background: #e5f0ff; }
   .io-azure .section-bg-dark {
-    background: #15257b; }
+    background: black; }
 
 .section-bg-blend {
   background-image: linear-gradient(to bottom, #0c0f2a 0%, #0b0c22 70%); }
@@ -3974,7 +3974,7 @@ label.error {
 /* @v1.1.0 s */
 .footer-particle {
   border-top: 1px solid rgba(22, 164, 253, 0.15);
-  background: #15257b url(../images/footer-bg-azure.png) no-repeat 50% 0/contain !important; }
+  background: black url(../images/footer-bg-azure.png) no-repeat 50% 0/contain !important; }
 
 .footer-brand {
   display: inline-block;
